@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757207835461",
+    "project_id": "todo-1572a",
+    "storage_bucket": "todo-1572a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757207835461:android:cc04b2236c08ca0cc0942c",
+        "android_client_info": {
+          "package_name": "com.example.todorazorpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJlofFA1BZ3rNAEHEmQia-A6FLQq8TQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
